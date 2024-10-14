@@ -1,10 +1,9 @@
-Understanding SOLID Principles in Angular
+## Understanding SOLID Principles in Angular
 
-Introduction
-
+**Introduction**
 In modern software development, maintaining clean, manageable code is essential for scalability and maintainability. The SOLID principles are a set of five design principles intended to make software designs more understandable, flexible, and maintainable. In this article, we will explore each of the SOLID principles and demonstrate their application in Angular.
 
-**The SOLID Principles**
+## The SOLID Principles
 
 **S - Single Responsibility Principle (SRP)**
 
