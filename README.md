@@ -119,3 +119,5 @@ constructor(private userService: UserService) {}
 **ISP:** Create smaller interfaces for user management and order processing.
 
 **DIP:** Implement the UserService as an interface to enhance modularity.
+
+https://hashnode.com/post/cm28ytku100030al49o9v1tox
